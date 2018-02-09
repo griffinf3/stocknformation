@@ -42,7 +42,7 @@ handleClose(){
 <li>Delete any stock displayed on the screen. (Note that each stock has a delete button located under the graph.)</li>
 <li>Enter one or more keywords to find symbols for stocks of interest.</li>
 <li>View the results of a search and select a symbol that appears in the search results.</li> 
-<li>View the number of users presently logged in to this site.</li>
+<li>View the total number of users who have a browser open to this site.</li>
 </ol> 
 </div> : null }
       </div>
